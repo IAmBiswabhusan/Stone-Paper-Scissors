@@ -51,9 +51,6 @@ Main function that executes each time the user makes a choice. It:
 - `.option` – clickable options for the user
 - `.H1` – click to toggle theme
 
-## 📸 Screenshots
-
-_Add screenshots here if needed_
 
 ## 📁 Installation
 
